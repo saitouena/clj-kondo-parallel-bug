@@ -1,7 +1,9 @@
 # clj-kondo-parallel-bug
 
-I havn't made it to work yet.
+I'm trying to make a repro case of https://github.com/borkdude/clj-kondo/issues/1068 .
+It's related to `:refer :all` (or `:use`) and `--parallel` option.
 
+I havn't made it to work yet.
 
 ## Usage
 
